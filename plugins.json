@@ -1,10 +1,10 @@
 [
   {
-    "internalName": "theatre-5.3.5",
-    "hash": "6466F4A4F85383086045A9FD315D5A3688FE28E641A170F789FBD10FFF177D36",
-    "size": 121678,
+    "internalName": "spoontob-1.2.8",
+    "hash": "F2807665D91CF3E2D5D05CC65B8800F73DFFEC9F57C27FD983303B244D1225A5",
+    "size": 1593128,
     "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
+      "ca.arnah.runelite.LauncherHijack"
     ],
     "displayName": "Theater of Blood",
     "description": "ToB",
