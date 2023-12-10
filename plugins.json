@@ -4,7 +4,8 @@
     "hash": "F2807665D91CF3E2D5D05CC65B8800F73DFFEC9F57C27FD983303B244D1225A5",
     "size": 1593128,
     "plugins": [
-      "ca.arnah.runelite.LauncherHijack"
+      "ca.arnah.runelite.LauncherHijack",
+      "ca.arnah.runelite.HijackCustomizePlugin"
     ],
     "displayName": "Theater of Blood",
     "description": "ToB",
